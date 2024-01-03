@@ -6,7 +6,5 @@ header('location:index.php');
 
 //dsjflkajflfassss
 //dsjflkajflfassss
-//dsjflkajflfassss
-//dsjflkajflfassss
 
 ?>
